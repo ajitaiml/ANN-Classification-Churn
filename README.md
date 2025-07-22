@@ -14,18 +14,8 @@ This project uses an **Artificial Neural Network (ANN)** to predict **customer c
 
 ---
 
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" height="50"/>
-</p>
-
+🧠 Tech Stack
+<p align="center"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="50"/> &nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" height="50"/> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50"/> &nbsp;&nbsp; <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" height="50"/> &nbsp;&nbsp; <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" height="50"/> </p>
 ---
 
 ## 🗂️ Project Structure
