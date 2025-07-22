@@ -17,7 +17,7 @@ This project uses an **Artificial Neural Network (ANN)** to predict **customer c
 🧠 Tech Stack
 <table> <tr> <th>Category</th> <th>Tool</th> <th>Usage</th> </tr> <tr> <td><strong>Programming Language</strong></td> <td><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="30"/> <strong>Python</strong></td> <td>Base language for model building, preprocessing, and app logic</td> </tr> <tr> <td><strong>Modeling</strong></td> <td><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="30"/> <strong>TensorFlow</strong></td> <td>Deep learning library used to build the ANN model</td> </tr> <tr> <td><strong>Modeling</strong></td> <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="30"/> <strong>Keras</strong></td> <td>High-level API to define and train the ANN model on top of TensorFlow</td> </tr> <tr> <td><strong>Web App</strong></td> <td><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="30"/> <strong>Streamlit</strong></td> <td>Framework to build and deploy an interactive web app for predictions</td> </tr> <tr> <td><strong>Preprocessing</strong></td> <td><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="30"/> <strong>Scikit-learn</strong></td> <td>Used for scaling, encoding, and preprocessing tabular data</td> </tr> </table>
 ---
-## 🗂️ Project Structure
+🗂️ Project Structure
 
 ```
 ├── Churn_Modelling.csv             # Dataset
