@@ -15,8 +15,7 @@ This project uses an **Artificial Neural Network (ANN)** to predict **customer c
 ---
 
 🧠 Tech Stack
-<p align="center"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="50"/> &nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" height="50"/> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50"/> &nbsp;&nbsp; <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" height="50"/> &nbsp;&nbsp; <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" height="50"/> </p>
----
+<table> <tr> <td><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="30"/></td> <td><strong>Python</strong></td> </tr> <tr> <td><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="30"/></td> <td><strong>TensorFlow</strong></td> </tr> <tr> <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="30"/></td> <td><strong>Keras</strong></td> </tr> <tr> <td><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="30"/></td> <td><strong>Streamlit</strong></td> </tr> <tr> <td><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="30"/></td> <td><strong>Scikit-learn</strong></td> </tr> </table>
 
 ## 🗂️ Project Structure
 
