@@ -1,4 +1,6 @@
 # ANN-Classification-Churn
+🔁 ANN-Based Customer Churn Classifier
+A simple machine learning web application built with Flask, utilizing an Artificial Neural Network (ANN) to classify whether a customer is likely to churn. This project focuses on model training, evaluation, and frontend-backend integration to visualize predictions based on telecom customer data.
 
 
 
